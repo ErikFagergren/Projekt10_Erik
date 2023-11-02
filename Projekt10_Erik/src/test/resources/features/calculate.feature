@@ -15,4 +15,4 @@ Feature: Decathlon
       | DecaJavelinThrow | Field        | 12     | 57     |
       | DecaLongJump     | Field        | 400    | 206    |
       | DecaPoleVault    | Field        | 300    | 357    |
-      | DecaShotPut      | Field        | 15     | 79     |
+      | DecaShotPut      | Field        | 15     | 790    |
